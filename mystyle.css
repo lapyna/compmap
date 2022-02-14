@@ -57,7 +57,32 @@
   font-family: 'Montserrat serif';
   font-weight: 500;
   text-decoration: none;
+  font-size: 16px;
 }
 .nav-pills .nav-link.active, .nav-pills .show>.nav-link {
   background-color: #333333;
 }
+.nav-link {
+    width: 314px;
+    height: 76px;
+    left: 24px;
+    top: 404px;
+    color: #000000;
+    font-family: 'Montserrat serif';
+}
+.span {
+width: 48px;
+height: 15px;
+left: 16px;
+bottom: 16px;
+font-family: 'Montserrat serif';
+font-style: normal;
+font-weight: 500;
+font-size: 12px;
+line-height: 15px;
+color: #828282;
+}
+.nav-link:hover {
+ color: black;
+}
+
