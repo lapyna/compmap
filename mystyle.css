@@ -1,4 +1,4 @@
- .nav { 
+.main-menu .nav { 
     max-width: 1400px;  
     line-height: 102px;
     background-size: auto;  
@@ -63,9 +63,9 @@
   background-color: #333333;
 }
 .nav-link {
-    width: 314px;
+    /* width: 314px; */
     height: 76px;
-    left: 24px;
+    /* left: 24px; */
     top: 404px;
     color: #000000;
     font-family: 'Montserrat serif';
@@ -86,3 +86,7 @@ color: #828282;
  color: black;
 }
 
+.page-menu a.nav-link:hover{
+  background-color: #333333;
+  color: #ffffff;
+}
