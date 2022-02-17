@@ -89,3 +89,34 @@ color: #828282;
   background-color: #333333;
   color: #ffffff;
 }
+.col-10 {
+width: 290px;
+height: 39px;
+left: 24px;
+top: 42px;
+font-family: 'Montserrat serif';
+font-style: normal;
+font-weight: bold;
+font-size: 32px;
+line-height: 39px;
+color: #000000;
+}
+.col-2 {
+font-family: 'Montserrat serif';
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 20px;
+color: #000000;
+}
+.col-4 {
+height: 124px;
+left: 24px;
+right: 695px;
+top: 187px;
+background: #F2F2F2;
+border-radius: 16px;
+}
+.nav-item {
+  
+}
