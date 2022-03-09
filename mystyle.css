@@ -118,5 +118,11 @@ background: #F2F2F2;
 border-radius: 16px;
 }
 .nav-item {
-  
+  font-family: 'Montserrat serif';
+  font-style: normal;
+  font-weight: 500;
+  font-size: 18px;
+  line-height: 22px;
+  text-align: center;
+  color: #000000;
 }
