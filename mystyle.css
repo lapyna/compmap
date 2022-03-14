@@ -126,3 +126,42 @@ border-radius: 16px;
   text-align: center;
   color: #000000;
 }
+.col-4 i {
+  width: 73px;
+  height: 15px;
+  left: 33.7px;
+  top: 17px;
+  
+  font-family: 'Montserrat serif';
+  font-style: normal;
+  font-weight: 500;
+  font-size: 12px;
+  line-height: 15px;
+  color: #4F4F4F;
+}
+.col-4 strong {
+  width: 238.65px;
+  height: 25.61px;
+  left: 16px;
+  top: 40px;
+
+  font-family: 'Montserrat serif';
+  font-style: normal;
+  font-weight: 500;
+  font-size: 18px;
+  line-height: 22px;
+  color: #000000;  
+}
+.col-4 span {
+width: 43px;
+height: 15px;
+left: 16px;
+bottom: 16px;
+
+font-family: 'Montserrat serif';
+font-style: normal;
+font-weight: 700;
+font-size: 12px;
+line-height: 15px;
+color: #000000;
+}

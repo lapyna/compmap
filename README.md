@@ -1,7 +1,7 @@
 # compmap
 cd ~/Desktop/compmap
 git add . 
-git commit -m 'описание сделанного изменения: 3 колонки'
+git commit -m 'описание сделанного изменения: css'
 git push (для отправки на Гит)
 git pull (обновления)
 
