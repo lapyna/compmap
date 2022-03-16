@@ -152,7 +152,7 @@ border-radius: 16px;
   line-height: 22px;
   color: #000000;  
 }
-.col-4 span {
+.col-4 span.grade {
 width: 43px;
 height: 15px;
 left: 16px;
@@ -164,4 +164,14 @@ font-weight: 700;
 font-size: 12px;
 line-height: 15px;
 color: #000000;
+}
+.mini-dot {
+  width: 4px;
+  height: 4px;
+  border-radius: 2px;
+  margin-left: 5px;
+  margin-right: 5px;
+  margin-top: auto;
+  margin-bottom: auto;
+  background-color: red;
 }
