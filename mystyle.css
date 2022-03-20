@@ -174,3 +174,13 @@ color: #000000;
   margin-bottom: auto;
   background-color: red;
 }
+.mini-dot-1 {
+  
+  width: 16px;
+  height: 16px;
+  left: 8.5px;
+  top: 8px;
+
+border-radius: 2px;
+background: #EB5757;
+}
