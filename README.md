@@ -1,7 +1,7 @@
 # compmap
 cd ~/Desktop/compmap
 git add . 
-git commit -m 'описание сделанного изменения: все не изучена ..'
+git commit -m 'описание сделанного изменения: все не изучена middle'
 git push (для отправки на Гит)
 git pull (обновления)
 

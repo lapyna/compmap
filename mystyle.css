@@ -126,10 +126,11 @@ border-radius: 16px;
   color: #000000;
 }
 .col-4 strong {
-  width: 73px;
+width: 73px;
 height: 15px;
-left: 33.7px;
-top: 17px;
+border-left: 33.7px;
+border-top: 17px;
+border-bottom: 92px;
 
 font-family: 'Montserrat serif';
 font-style: normal;
@@ -142,8 +143,9 @@ color: #4F4F4F;
 .col-4 strong.status {
   width: 238.65px;
   height: 25.61px;
-  left: 16px;
-  top: 40px;
+  border-left: 16px;
+  border-top: 40px;
+  border-bottom: 58,39px;
 
   font-family: 'Montserrat serif';
   font-style: normal;
@@ -155,8 +157,9 @@ color: #4F4F4F;
 .col-4 span.grade {
 width: 43px;
 height: 15px;
-left: 16px;
-bottom: 16px;
+border-left: 16px;
+border-bottom: 16px;
+border-left: 93px;
 
 font-family: 'Montserrat serif';
 font-style: normal;
@@ -174,6 +177,7 @@ color: #000000;
   background-color: red;
 }
 .mini-dot-1 {
+display: block;  
 width: 16px;
 height: 16px;
 left: 8.5px;
@@ -181,3 +185,30 @@ top: 8px;
 border-radius: 2px;
 background: #EB5757;
 }
+.mini-dot-2 {
+  display: block;  
+  width: 16px;
+  height: 16px;
+  left: 8.5px;
+  top: 8px;
+  border-radius: 2px;
+  background: #27AE60;
+  }
+  .mini-dot-3 {
+    display: block;  
+    width: 16px;
+    height: 16px;
+    left: 8.5px;
+    top: 8px;
+    border-radius: 2px;
+    background: #2d9cdb;
+    }
+    .mini-dot-4 {
+      display: block;  
+      width: 16px;
+      height: 16px;
+      left: 8.5px;
+      top: 8px;
+      border-radius: 2px;
+      background: #f2994a;
+      }
