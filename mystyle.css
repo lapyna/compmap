@@ -109,13 +109,17 @@ font-size: 16px;
 line-height: 20px;
 color: #000000;
 }
-.col-4 {
+.box {
+Width: 319px;
 height: 124px;
 left: 24px;
 right: 695px;
 top: 187px;
 background: #F2F2F2;
 border-radius: 16px;
+display: flex;
+flex-direction: column;
+justify-content: space-between;
 }
 .nav-item {
   font-family: 'Montserrat serif';
@@ -125,7 +129,15 @@ border-radius: 16px;
   line-height: 22px;
   color: #000000;
 }
-.col-4 strong {
+.d-flex.flex-row {
+Width: 835px;
+Height: 32px;
+left: 24px;
+right: 179px;
+display: flex;
+justify-content: space-between;
+}
+.box strong {
 width: 73px;
 height: 15px;
 border-left: 33.7px;
@@ -140,7 +152,7 @@ line-height: 15px;
 color: #4F4F4F;
 
 }
-.col-4 strong.status {
+.box strong.status {
   width: 238.65px;
   height: 25.61px;
   border-left: 16px;
@@ -154,12 +166,11 @@ color: #4F4F4F;
   line-height: 22px;
   color: #000000;  
 }
-.col-4 span.grade {
+.box span.grade {
 width: 43px;
 height: 15px;
 border-left: 16px;
 border-bottom: 16px;
-border-left: 93px;
 
 font-family: 'Montserrat serif';
 font-style: normal;
@@ -178,37 +189,45 @@ color: #000000;
 }
 .mini-dot-1 {
 display: block;  
-width: 16px;
-height: 16px;
-left: 8.5px;
-top: 8px;
+width: 6px;
+height: 6px;
+margin-right: 7,74px;
+margin-left: 8.5px;
+margin-top: 8px;
+margin-bottom: auto;
 border-radius: 2px;
 background: #EB5757;
 }
 .mini-dot-2 {
-  display: block;  
-  width: 16px;
-  height: 16px;
-  left: 8.5px;
-  top: 8px;
-  border-radius: 2px;
-  background: #27AE60;
-  }
+display: block;  
+width: 6px;
+height: 6px;
+margin-right: 7,74px;
+margin-left: 8.5px;
+margin-top: 8px;
+margin-bottom: auto;
+border-radius: 2px;
+background: #27AE60;
+}
   .mini-dot-3 {
-    display: block;  
-    width: 16px;
-    height: 16px;
-    left: 8.5px;
-    top: 8px;
-    border-radius: 2px;
-    background: #2d9cdb;
-    }
+display: block;  
+width: 6px;
+height: 6px;
+margin-right: 7,74px;
+margin-left: 8.5px;
+margin-top: 8px;
+margin-bottom: auto;
+border-radius: 2px;
+background: #2d9cdb;
+}
     .mini-dot-4 {
-      display: block;  
-      width: 16px;
-      height: 16px;
-      left: 8.5px;
-      top: 8px;
-      border-radius: 2px;
-      background: #f2994a;
-      }
+display: block;  
+width: 6px;
+height: 6px;
+margin-right: 7,74px;
+margin-left: 8.5px;
+margin-top: 8px;
+margin-bottom: auto;
+border-radius: 2px;
+background: #f2994a;
+}
