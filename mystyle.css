@@ -139,7 +139,7 @@ justify-content: space-between;
 }
 .box strong {
 width: 73px;
-height: 15px;
+/* height: 15px; */
 border-left: 33.7px;
 border-top: 17px;
 border-bottom: 92px;
@@ -154,7 +154,7 @@ color: #4F4F4F;
 }
 .box strong.status {
   width: 238.65px;
-  height: 25.61px;
+  /* height: 25.61px; */
   border-left: 16px;
   border-top: 40px;
   border-bottom: 58,39px;
@@ -167,15 +167,14 @@ color: #4F4F4F;
   color: #000000;  
 }
 .box span.grade {
-width: 43px;
-height: 15px;
-border-left: 16px;
-border-bottom: 16px;
+  width: 43px;
+  border-left: 16px;
+  border-bottom: 16px;
 
-font-family: 'Montserrat serif';
-font-style: normal;
-font-weight: 700;
-color: #000000;
+  font-family: 'Montserrat serif';
+  font-style: normal;
+  font-weight: 700;
+  color: #000000;
 }
 .mini-dot {
   width: 4px;
