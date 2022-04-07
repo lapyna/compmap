@@ -66,16 +66,12 @@
   height: 44px;
   border-radius: 50%;
   padding: 5px;
-  background: linear-gradient(45deg, #F2F2F2 60%,#27ae60);
-  margin-left: 50px;
+  background-color:#27ae60; 
 }
-
 .inner {
   width: 100%;
   height: 100%;
   border-radius: inherit;
-  text-align: center;
-  line-height: 90px;
   background-color: #fff;
 }
 .nav-link {
@@ -101,10 +97,12 @@
 .nav-link:hover {
   color: black;
 }
-
 .page-menu a.nav-link:hover {
   background-color: #333333;
   color: #ffffff;
+  left: 101px;
+  top: 123.26px;
+  border-radius: 16px;
 }
 .col-10 {
   width: 290px;
@@ -138,6 +136,7 @@
   flex-direction: column;
   justify-content: space-around;
   margin-right: 16px;
+  margin-top: 2px;
 }
 .nav-item {
   font-family: 'Montserrat serif';
@@ -154,7 +153,7 @@
   left: 24px;
   right: 179px;
   top: 123px;
-  margin-top: 30px;
+  margin-top: 10px;
   margin-right: 30px;
   display: flex;
   justify-content: space-between;
