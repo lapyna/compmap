@@ -100,10 +100,10 @@
 .page-menu a.nav-link:hover {
   background-color: #333333;
   color: #ffffff;
-  left: 101px;
-  top: 123.26px;
+  /* left: 101px;
+  top: 123.26px; */
   border-radius: 16px;
-  height: 31.74px;
+  /* height: 31.74px; */
 }
 .col-10 {
   width: 290px;
