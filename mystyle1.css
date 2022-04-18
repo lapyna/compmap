@@ -1,0 +1,16 @@
+  .nav-link {
+    /*width: 314px;*/
+    height: 54px;
+    /*left: 24px;*/
+    top: 24px;  
+    color: #ffffff;
+    font-family: 'Montserrat serif';
+    border-radius: 16px;
+  }
+  .input {
+    width: 44px;
+    height: 44px;
+    right: 16px;
+    top: 5px;
+    background-color: #27AE60
+  }

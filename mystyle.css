@@ -67,6 +67,9 @@
   border-radius: 50%;
   padding: 5px;
   background-color:#27ae60; 
+  left: 254px;
+  top: 16px;
+  right: 16px;
 }
 .inner {
   width: 100%;
