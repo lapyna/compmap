@@ -1,7 +1,7 @@
 # compmap
 cd ~/Desktop/compmap
 git add . 
-git commit -m 'описание сделанного изменения: выделение, индикатор'
+git commit -m 'описание сделанного изменения: вторая страница'
 git push (для отправки на Гит)
 git pull (обновления)
 
